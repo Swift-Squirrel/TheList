@@ -48,6 +48,7 @@ Server Side Swift frameworks are projects that provide an infrastructure with wh
 
 * [Kitura](https://github.com/IBM-Swift/Kitura)
 * [Perfect](https://github.com/PerfectlySoft/Perfect)
+* [Swift Squirrel](https://github.com/Swift-Squirrel/Squirrel)
 * [Tris](https://github.com/tris-foundation/universe)
 * [Vapor](https://github.com/vapor/vapor)
 * [Zewo](https://github.com/Zewo/Zewo)
@@ -146,6 +147,7 @@ Server Side Swift frameworks are projects that provide an infrastructure with wh
 * [Vapor Markdown Provider](https://github.com/vapor/markdown-provider)
 * [Vapor Mustache](https://github.com/vapor/mustache-provider)
 * [Zewo Mustache](https://github.com/Zewo/Mustache)
+* [NutView](https://github.com/Swift-Squirrel/NutView) - Swift like templates for Swift Squirrel
 * [MuttonChop](https://github.com/Danappelxx/MuttonChop) - Mustache templates in Swift
 * [Kitura Template Engine](https://github.com/IBM-Swift/Kitura-TemplateEngine) - Template engine for Kitura
 
@@ -214,6 +216,7 @@ Server Side Swift frameworks are projects that provide an infrastructure with wh
 * [Perfect MongoDB connector](https://github.com/PerfectlySoft/Perfect-MongoDB) - A stand-alone Swift wrapper around the mongo-c client library.
 * [MongoDB driver for Fluent](https://github.com/vapor/mongo-driver) - MongoDB driver for Fluent.
 * [MongoKitten](https://github.com/OpenKitten/MongoKitten) - Native MongoDB driver for Swift, written in Swift
+* [Squirrel Connector](https://github.com/Swift-Squirrel/Squirrel-Connector) - MongoKitten wrapper for easy common tasks.
 
 ### CouchDB
 
@@ -258,6 +261,7 @@ Connectors to Web servers such as Apache, nginx.
 * [Perfect HTTP Libraries](https://github.com/PerfectlySoft/Perfect-HTTP) - Base HTTP Support for Perfect.
 * [Perfect FastCGI Apache 2.4](https://github.com/PerfectlySoft/Perfect-FastCGI-Apache2.4)
 * [Perfect FastCGI](https://github.com/PerfectlySoft/Perfect-FastCGI) - FastCGI server for Perfect.
+* [Swift Squirrel](https://github.com/Swift-Squirrel/Squirrel)
 * [Tris HTTP Server](https://github.com/tris-foundation/http-server)
 * [Vapor Engine](https://github.com/vapor/engine) - Pure Swift HTTP
 * [Kitura Networking](https://github.com/IBM-Swift/Kitura-net) - HTTP server and networking 
